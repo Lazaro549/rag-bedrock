@@ -15,7 +15,7 @@ Question-answering system over your own documents using **Retrieval-Augmented Ge
 
 ## Architecture
 
-![RAG with AWS Bedrock — architecture diagram](./arquitectura.png)
+![RAG with AWS Bedrock — architecture diagram](./arquitecture.png)
 
 ## Project Structure
 ```
